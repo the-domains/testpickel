@@ -1,0 +1,28 @@
+name: Testpickel
+favicon: null
+layout_spectrum: 0.5299687241204083
+typography_spectrum: 0.4536557733081281
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#E0FBFC'
+    - '#C2DFE3'
+    - '#9DB4C0'
+    - '#5C6B73'
+    - '#253237'
+  brandStrength: 0.3435026830993593
+  lightness: 0.26034486130811274
+  saturation: 0.8480132506228983
+  rhythmicContrast: 0.641476261196658
+purpose: []
